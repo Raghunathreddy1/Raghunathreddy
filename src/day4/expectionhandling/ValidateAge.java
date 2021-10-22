@@ -1,5 +1,4 @@
 package day4.expectionhandling;
-
 import java.util.Scanner;
 
 class AgeException extends Exception {
