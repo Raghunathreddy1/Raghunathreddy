@@ -7,8 +7,6 @@ public class PositiveString {
 	public static void main(String[] args) {
 
 		Scanner scn= new Scanner(System.in);
-
-		//ask to user to give input
 		System.out.println("Enter a string to check it is positive string or not: ");
 		String str= scn.nextLine();
 
