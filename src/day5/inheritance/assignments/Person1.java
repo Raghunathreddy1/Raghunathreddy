@@ -1,7 +1,6 @@
 package day5.inheritance.assignments;
 
-//parent class
-public class Person {
+public class Person1 {
 
 	String name = "Raghu";
 	float height=7.2f;

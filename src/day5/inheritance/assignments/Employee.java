@@ -1,5 +1,5 @@
 package day5.inheritance.assignments;
-public class Employee extends Person{
+public class Employee extends Person1{
  int empid=23456;
  long phnum=9515519507l;
  void work() {
